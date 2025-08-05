@@ -1,12 +1,15 @@
-Quick installation guide
+# Quick installation guide
 
 Assume fully functional OpenWRT development environment is installed into folder
+
 /tmp/openwrt
 
 1. Upadate OpenWRT environment
 
 cd /tmp/openwrt/source
+
 ./scripts/feeds update -a
+
 ./scripts/feeds install -a
 
 2. Get the newest version of the software:
