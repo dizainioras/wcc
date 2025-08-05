@@ -1,7 +1,9 @@
 # wcc
 Web page classification
 
+Folder win contains ML model training software in the form of Visual Studio project.
 
-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
+Folder wrt contains OpenWRT package description and source code intended to be used for
+classification on the hardware router.
 
 
