@@ -1,0 +1,1 @@
+/usr/bin/g++-14  -O2 CMakeFiles/smoke_test.dir/smoke_test.cpp.o -o smoke_test  -Wl,-rpath,/home/nerijus/web/libs/armadillo-14.4.0 ../libarmadillo.so.14.4.0 /usr/lib64/libblas.so /usr/lib64/liblapack.so /usr/lib64/libarpack.so /usr/lib64/libsuperlu.so 

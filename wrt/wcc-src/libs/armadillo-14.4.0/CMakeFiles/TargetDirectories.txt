@@ -1,0 +1,16 @@
+/home/nerijus/web/libs/armadillo-14.4.0/CMakeFiles/armadillo.dir
+/home/nerijus/web/libs/armadillo-14.4.0/CMakeFiles/test.dir
+/home/nerijus/web/libs/armadillo-14.4.0/CMakeFiles/edit_cache.dir
+/home/nerijus/web/libs/armadillo-14.4.0/CMakeFiles/rebuild_cache.dir
+/home/nerijus/web/libs/armadillo-14.4.0/CMakeFiles/list_install_components.dir
+/home/nerijus/web/libs/armadillo-14.4.0/CMakeFiles/install.dir
+/home/nerijus/web/libs/armadillo-14.4.0/CMakeFiles/install/local.dir
+/home/nerijus/web/libs/armadillo-14.4.0/CMakeFiles/install/strip.dir
+/home/nerijus/web/libs/armadillo-14.4.0/tests1/CMakeFiles/smoke_test.dir
+/home/nerijus/web/libs/armadillo-14.4.0/tests1/CMakeFiles/test.dir
+/home/nerijus/web/libs/armadillo-14.4.0/tests1/CMakeFiles/edit_cache.dir
+/home/nerijus/web/libs/armadillo-14.4.0/tests1/CMakeFiles/rebuild_cache.dir
+/home/nerijus/web/libs/armadillo-14.4.0/tests1/CMakeFiles/list_install_components.dir
+/home/nerijus/web/libs/armadillo-14.4.0/tests1/CMakeFiles/install.dir
+/home/nerijus/web/libs/armadillo-14.4.0/tests1/CMakeFiles/install/local.dir
+/home/nerijus/web/libs/armadillo-14.4.0/tests1/CMakeFiles/install/strip.dir

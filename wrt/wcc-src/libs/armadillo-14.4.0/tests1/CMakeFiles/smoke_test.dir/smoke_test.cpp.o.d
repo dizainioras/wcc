@@ -1,0 +1,826 @@
+tests1/CMakeFiles/smoke_test.dir/smoke_test.cpp.o: \
+ /home/nerijus/web/libs/armadillo-14.4.0/tests1/smoke_test.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/14/iostream \
+ /usr/include/c++/14/bits/requires_hosted.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/c++config.h \
+ /usr/include/bits/wordsize.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/os_defines.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/bits/timesize.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/long-double.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/cpu_defines.h \
+ /usr/include/c++/14/ostream /usr/include/c++/14/ios \
+ /usr/include/c++/14/iosfwd /usr/include/c++/14/bits/stringfwd.h \
+ /usr/include/c++/14/bits/memoryfwd.h /usr/include/c++/14/bits/postypes.h \
+ /usr/include/c++/14/cwchar /usr/include/wchar.h \
+ /usr/include/bits/libc-header-start.h \
+ /usr/lib64/gcc/x86_64-suse-linux/14/include-fixed/bits/floatn.h \
+ /usr/lib64/gcc/x86_64-suse-linux/14/include/stddef.h \
+ /usr/lib64/gcc/x86_64-suse-linux/14/include/stdarg.h \
+ /usr/include/bits/wchar.h /usr/include/bits/types/wint_t.h \
+ /usr/include/bits/types/mbstate_t.h \
+ /usr/include/bits/types/__mbstate_t.h /usr/include/bits/types/__FILE.h \
+ /usr/include/bits/types/FILE.h /usr/include/bits/types/locale_t.h \
+ /usr/include/bits/types/__locale_t.h /usr/include/c++/14/exception \
+ /usr/include/c++/14/bits/exception.h /usr/include/c++/14/bits/version.h \
+ /usr/include/c++/14/bits/exception_ptr.h \
+ /usr/include/c++/14/bits/exception_defines.h \
+ /usr/include/c++/14/bits/cxxabi_init_exception.h \
+ /usr/include/c++/14/typeinfo /usr/include/c++/14/bits/hash_bytes.h \
+ /usr/include/c++/14/new /usr/include/c++/14/bits/move.h \
+ /usr/include/c++/14/type_traits \
+ /usr/include/c++/14/bits/nested_exception.h \
+ /usr/include/c++/14/bits/char_traits.h \
+ /usr/include/c++/14/bits/localefwd.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/c++locale.h \
+ /usr/include/c++/14/clocale /usr/include/locale.h \
+ /usr/include/bits/locale.h /usr/include/c++/14/cctype \
+ /usr/include/ctype.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h /usr/include/bits/time64.h \
+ /usr/include/bits/endian.h /usr/include/bits/endianness.h \
+ /usr/include/c++/14/bits/ios_base.h /usr/include/c++/14/ext/atomicity.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/gthr.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/gthr-default.h \
+ /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/bits/types/time_t.h \
+ /usr/include/bits/types/struct_timespec.h /usr/include/bits/sched.h \
+ /usr/include/bits/types/struct_sched_param.h /usr/include/bits/cpu-set.h \
+ /usr/include/time.h /usr/include/bits/time.h /usr/include/bits/timex.h \
+ /usr/include/bits/types/struct_timeval.h \
+ /usr/include/bits/types/clock_t.h /usr/include/bits/types/struct_tm.h \
+ /usr/include/bits/types/clockid_t.h /usr/include/bits/types/timer_t.h \
+ /usr/include/bits/types/struct_itimerspec.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/thread-shared-types.h \
+ /usr/include/bits/pthreadtypes-arch.h \
+ /usr/include/bits/atomic_wide_counter.h /usr/include/bits/struct_mutex.h \
+ /usr/include/bits/struct_rwlock.h /usr/include/bits/setjmp.h \
+ /usr/include/bits/types/__sigset_t.h \
+ /usr/include/bits/types/struct___jmp_buf_tag.h \
+ /usr/include/bits/pthread_stack_min-dynamic.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/atomic_word.h \
+ /usr/include/sys/single_threaded.h \
+ /usr/include/c++/14/bits/locale_classes.h /usr/include/c++/14/string \
+ /usr/include/c++/14/bits/allocator.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/c++allocator.h \
+ /usr/include/c++/14/bits/new_allocator.h \
+ /usr/include/c++/14/bits/functexcept.h \
+ /usr/include/c++/14/bits/cpp_type_traits.h \
+ /usr/include/c++/14/bits/ostream_insert.h \
+ /usr/include/c++/14/bits/cxxabi_forced.h \
+ /usr/include/c++/14/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/14/bits/concept_check.h \
+ /usr/include/c++/14/debug/assertions.h \
+ /usr/include/c++/14/bits/stl_iterator_base_types.h \
+ /usr/include/c++/14/bits/stl_iterator.h \
+ /usr/include/c++/14/ext/type_traits.h \
+ /usr/include/c++/14/bits/ptr_traits.h \
+ /usr/include/c++/14/bits/stl_function.h \
+ /usr/include/c++/14/backward/binders.h \
+ /usr/include/c++/14/ext/numeric_traits.h \
+ /usr/include/c++/14/bits/stl_algobase.h \
+ /usr/include/c++/14/bits/stl_pair.h /usr/include/c++/14/bits/utility.h \
+ /usr/include/c++/14/debug/debug.h \
+ /usr/include/c++/14/bits/predefined_ops.h /usr/include/c++/14/bit \
+ /usr/include/c++/14/concepts /usr/include/c++/14/bits/refwrap.h \
+ /usr/include/c++/14/bits/invoke.h \
+ /usr/include/c++/14/bits/range_access.h \
+ /usr/include/c++/14/initializer_list \
+ /usr/include/c++/14/bits/basic_string.h \
+ /usr/include/c++/14/ext/alloc_traits.h \
+ /usr/include/c++/14/bits/alloc_traits.h \
+ /usr/include/c++/14/bits/stl_construct.h \
+ /usr/include/c++/14/ext/string_conversions.h /usr/include/c++/14/cstdlib \
+ /usr/include/stdlib.h /usr/include/bits/waitflags.h \
+ /usr/include/bits/waitstatus.h /usr/include/sys/types.h \
+ /usr/include/bits/stdint-intn.h /usr/include/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/uintn-identity.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/types/sigset_t.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
+ /usr/include/c++/14/bits/std_abs.h /usr/include/c++/14/cstdio \
+ /usr/include/stdio.h /usr/include/bits/types/__fpos_t.h \
+ /usr/include/bits/types/__fpos64_t.h \
+ /usr/include/bits/types/struct_FILE.h \
+ /usr/include/bits/types/cookie_io_functions_t.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/stdio.h \
+ /usr/include/c++/14/cerrno /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h /usr/include/bits/types/error_t.h \
+ /usr/include/c++/14/bits/charconv.h \
+ /usr/include/c++/14/bits/functional_hash.h \
+ /usr/include/c++/14/bits/basic_string.tcc \
+ /usr/include/c++/14/bits/locale_classes.tcc \
+ /usr/include/c++/14/system_error \
+ /usr/include/c++/14/x86_64-suse-linux/bits/error_constants.h \
+ /usr/include/c++/14/stdexcept /usr/include/c++/14/streambuf \
+ /usr/include/c++/14/bits/streambuf.tcc \
+ /usr/include/c++/14/bits/basic_ios.h \
+ /usr/include/c++/14/bits/locale_facets.h /usr/include/c++/14/cwctype \
+ /usr/include/wctype.h /usr/include/bits/wctype-wchar.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/ctype_base.h \
+ /usr/include/c++/14/bits/streambuf_iterator.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/ctype_inline.h \
+ /usr/include/c++/14/bits/locale_facets.tcc \
+ /usr/include/c++/14/bits/basic_ios.tcc \
+ /usr/include/c++/14/bits/ostream.tcc /usr/include/c++/14/istream \
+ /usr/include/c++/14/bits/istream.tcc \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/config.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/compiler_check.hpp \
+ /usr/include/c++/14/cstddef /usr/include/c++/14/cstring \
+ /usr/include/string.h /usr/include/strings.h /usr/include/c++/14/climits \
+ /usr/lib64/gcc/x86_64-suse-linux/14/include/limits.h \
+ /usr/lib64/gcc/x86_64-suse-linux/14/include/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+ /usr/include/bits/uio_lim.h /usr/include/c++/14/cstdint \
+ /usr/lib64/gcc/x86_64-suse-linux/14/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
+ /usr/include/c++/14/cmath /usr/include/math.h \
+ /usr/include/bits/math-vector.h /usr/include/bits/libm-simd-decl-stubs.h \
+ /usr/include/bits/flt-eval-method.h /usr/include/bits/fp-logb.h \
+ /usr/include/bits/fp-fast.h \
+ /usr/include/bits/mathcalls-helper-functions.h \
+ /usr/include/bits/mathcalls.h /usr/include/bits/mathcalls-narrow.h \
+ /usr/include/bits/iscanonical.h /usr/include/c++/14/ctime \
+ /usr/include/c++/14/memory /usr/include/c++/14/bits/stl_tempbuf.h \
+ /usr/include/c++/14/bits/stl_uninitialized.h \
+ /usr/include/c++/14/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/14/bits/align.h \
+ /usr/include/c++/14/bits/uses_allocator.h \
+ /usr/include/c++/14/bits/unique_ptr.h /usr/include/c++/14/tuple \
+ /usr/include/c++/14/bits/shared_ptr.h \
+ /usr/include/c++/14/bits/shared_ptr_base.h \
+ /usr/include/c++/14/bits/allocated_ptr.h \
+ /usr/include/c++/14/ext/aligned_buffer.h \
+ /usr/include/c++/14/ext/concurrence.h \
+ /usr/include/c++/14/bits/shared_ptr_atomic.h \
+ /usr/include/c++/14/bits/atomic_base.h \
+ /usr/include/c++/14/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/14/backward/auto_ptr.h /usr/include/c++/14/fstream \
+ /usr/include/c++/14/bits/codecvt.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/basic_file.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/c++io.h \
+ /usr/include/c++/14/bits/fstream.tcc /usr/include/c++/14/sstream \
+ /usr/include/c++/14/bits/sstream.tcc /usr/include/c++/14/limits \
+ /usr/include/c++/14/algorithm /usr/include/c++/14/bits/stl_algo.h \
+ /usr/include/c++/14/bits/algorithmfwd.h \
+ /usr/include/c++/14/bits/stl_heap.h \
+ /usr/include/c++/14/bits/uniform_int_dist.h /usr/include/c++/14/complex \
+ /usr/include/c++/14/vector /usr/include/c++/14/bits/stl_vector.h \
+ /usr/include/c++/14/bits/stl_bvector.h \
+ /usr/include/c++/14/bits/vector.tcc /usr/include/c++/14/utility \
+ /usr/include/c++/14/bits/stl_relops.h /usr/include/c++/14/map \
+ /usr/include/c++/14/bits/stl_tree.h /usr/include/c++/14/bits/stl_map.h \
+ /usr/include/c++/14/bits/stl_multimap.h \
+ /usr/include/c++/14/bits/erase_if.h /usr/include/c++/14/random \
+ /usr/include/c++/14/bits/random.h \
+ /usr/include/c++/14/x86_64-suse-linux/bits/opt_random.h \
+ /usr/include/c++/14/bits/random.tcc /usr/include/c++/14/numeric \
+ /usr/include/c++/14/bits/stl_numeric.h /usr/include/c++/14/functional \
+ /usr/include/c++/14/bits/std_function.h /usr/include/c++/14/chrono \
+ /usr/include/c++/14/bits/chrono.h /usr/include/c++/14/ratio \
+ /usr/include/c++/14/bits/parse_numbers.h /usr/include/c++/14/atomic \
+ /usr/include/c++/14/mutex /usr/include/c++/14/bits/std_mutex.h \
+ /usr/include/c++/14/bits/unique_lock.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/bits/getopt_posix.h \
+ /usr/include/bits/getopt_core.h /usr/include/bits/unistd_ext.h \
+ /usr/include/linux/close_range.h \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/compiler_setup.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/include_hdf5.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/include_superlu.hpp \
+ /usr/include/supermatrix.h /usr/include/superlu_enum_consts.h \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_forward.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_static_check.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/typedef_elem.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/typedef_elem_check.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/typedef_mat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_str.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_version.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_config.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/traits.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/promote_type.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/upgrade_val.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/restrictors.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/access.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/span.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/distr_param.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/constants.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/constants_old.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mp_misc.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_rel_comparators.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fill.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_rng_cxx03.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_rng.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Base_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/BaseCube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpBase_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/def_blas.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/def_atlas.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/def_lapack.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/def_arpack.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/def_superlu.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/def_fftw3.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/translate_blas.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/translate_atlas.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/translate_lapack.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/translate_arpack.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/translate_superlu.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/translate_fftw3.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/cond_rel_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arrayops_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/podarray_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/auxlib_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/sp_auxlib_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/injector_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Mat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Col_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Row_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Cube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/xvec_htrans_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/xtrans_mat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SizeMat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SizeCube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpValProxy_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpMat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpCol_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpRow_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpSubview_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpSubview_col_list_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spdiagview_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/MapMat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/typedef_mat_fixed.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/field_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_elem1_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_elem2_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_field_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_cube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/diagview_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_each_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_cube_each_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_cube_slices_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/hdf5_name.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/csv_name.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/diskio_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/wall_clock_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/running_stat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/running_stat_vec_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Op_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/CubeToMatOp_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/OpCube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpOp_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpToDOp_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtSpReduceOp_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eOp_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eOpCube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtOp_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtOpCube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtSpOp_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Glue_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eGlue_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtGlue_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpGlue_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtSpGlue_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpToDGlue_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/GlueCube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eGlueCube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtGlueCube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eop_core_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eglue_core_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Gen_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/GenCube_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_diagmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_diagvec_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_dot_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_det_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_log_det_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_inv_gen_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_inv_spd_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_htrans_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_max_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_min_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_index_max_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_index_min_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_mean_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_median_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sort_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sort_index_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sum_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_stddev_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_strans_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_var_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_repmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_repelem_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_reshape_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_vectorise_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_resize_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cov_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cor_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_shift_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_shuffle_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_prod_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_pinv_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_dotext_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_flip_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_reverse_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_princomp_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_misc_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_orth_null_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_relational_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_find_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_find_unique_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_chol_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cx_scalar_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_trimat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cumsum_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cumprod_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_symmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_hist_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_unique_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_toeplitz_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_fft_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_any_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_all_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_normalise_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_clamp_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_expmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_nonzeros_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_diff_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_norm_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_vecnorm_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_norm2est_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sqrtmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_logmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_range_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_chi2rnd_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_wishrnd_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_roots_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cond_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_rcond_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_powmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_rank_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_row_as_mat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_col_as_mat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_plus_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_minus_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_sum_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_max_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_min_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_mean_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_var_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_stddev_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_vecnorm_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_diagvec_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_nonzeros_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_as_dense_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_times_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_times_misc_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_mixed_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_cov_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_cor_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_kron_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_cross_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_join_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_relational_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_solve_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_conv_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_toeplitz_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_hist_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_histc_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_max_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_min_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_trapz_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_atan2_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_hypot_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_polyfit_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_polyval_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_intersect_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_affmul_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_mvnrnd_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_quantile_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_powext_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/gmm_misc_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/gmm_diag_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/gmm_full_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_strans_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_htrans_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_misc_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_diagmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_trimat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_symmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_normalise_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_reverse_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_repmat_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_vectorise_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_norm_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_shift_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_relational_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_plus_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_minus_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_schur_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_times_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_join_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_kron_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_min_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_max_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_merge_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_relational_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spsolve_factoriser_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_EigsSelect.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_DenseGenMatProd_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_SparseGenMatProd_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_SparseGenRealShiftSolve_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_DoubleShiftQR_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_GenEigsSolver_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_SymEigsSolver_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_SymEigsShiftSolver_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_TridiagEigen_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_UpperHessenbergEigen_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_UpperHessenbergQR_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/debug.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/memory.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_cmath.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/unwrap.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/unwrap_cube.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/unwrap_spmat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Proxy.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/ProxyCube.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpProxy.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/diagmat_proxy.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/strip.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eop_aux.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_ostream_bones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arma_ostream_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_n_unique.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_plus.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_minus.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_times.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_schur.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_div.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_relational.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_cube_plus.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_cube_minus.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_cube_times.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_cube_schur.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_cube_div.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_cube_relational.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/operator_ostream.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_conv_to.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_max.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_min.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_index_max.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_index_min.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_accu.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_sum.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_diagmat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_diagvec.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_inv.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_inv_sympd.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_trace.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_trans.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_det.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_log_det.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_eig_gen.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_eig_sym.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_eig_pair.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_lu.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_zeros.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_ones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_eye.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_misc.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_orth_null.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_regspace.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_find.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_find_unique.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_elem.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_approx_equal.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_norm.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_vecnorm.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_dot.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_randu.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_randn.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_trig.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_mean.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_median.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_stddev.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_var.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_sort.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_sort_index.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_strans.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_chol.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_qr.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_svd.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_solve.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_repmat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_repelem.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_reshape.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_vectorise.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_resize.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_cov.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_cor.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_shift.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_shuffle.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_prod.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_eps.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_pinv.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_rank.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_kron.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_flip.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_reverse.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_as_scalar.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_princomp.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_cross.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_join.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_conv.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_trunc_exp.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_trunc_log.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_toeplitz.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_trimat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_trimat_ind.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_cumsum.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_cumprod.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_symmat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_sylvester.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_hist.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_histc.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_unique.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_fft.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_fft2.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_any.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_all.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_size.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_numel.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_inplace_strans.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_inplace_trans.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_randi.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_randg.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_cond_rcond.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_normalise.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_clamp.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_expmat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_nonzeros.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_interp1.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_interp2.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_qz.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_diff.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_hess.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_schur.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_kmeans.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_sqrtmat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_logmat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_trapz.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_range.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_polyfit.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_polyval.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_intersect.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_normpdf.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_log_normpdf.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_normcdf.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_mvnrnd.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_chi2rnd.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_wishrnd.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_roots.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_randperm.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_quantile.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_powmat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_powext.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_diags_spdiags.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_speye.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_spones.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_sprandn.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_sprandu.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_eigs_sym.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_eigs_gen.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_spsolve.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fn_svds.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/hdf5_misc.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fft_engine_kissfft.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/fft_engine_fftw3.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/band_helper.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/sym_helper.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/trimat_helper.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mul_gemv.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mul_gemm.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mul_gemm_mixed.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mul_syrk.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mul_herk.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Op_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/CubeToMatOp_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/OpCube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpOp_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpToDOp_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtOp_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtOpCube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtSpOp_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtSpReduceOp_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Glue_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/GlueCube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpGlue_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtSpGlue_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpToDGlue_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eOp_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eOpCube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eGlue_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eGlueCube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtGlue_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/mtGlueCube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Base_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/BaseCube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpBase_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Gen_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/GenCube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eop_core_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/eglue_core_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/cond_rel_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/arrayops_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/podarray_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/auxlib_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/sp_auxlib_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/injector_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Mat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Col_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Row_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/Cube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/xvec_htrans_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/xtrans_mat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SizeMat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SizeCube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/field_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_elem1_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_elem2_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_field_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_cube_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/diagview_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_each_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_cube_each_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/subview_cube_slices_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpValProxy_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpMat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpMat_iterators_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpCol_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpRow_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpSubview_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpSubview_iterators_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/SpSubview_col_list_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spdiagview_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/MapMat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/diskio_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/wall_clock_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/running_stat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/running_stat_vec_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_diagmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_diagvec_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_dot_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_det_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_log_det_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_inv_gen_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_inv_spd_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_htrans_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_max_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_index_max_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_index_min_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_min_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_mean_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_median_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sort_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sort_index_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sum_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_stddev_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_strans_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_var_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_repmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_repelem_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_reshape_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_vectorise_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_resize_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cov_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cor_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_shift_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_shuffle_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_prod_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_pinv_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_dotext_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_flip_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_reverse_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_princomp_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_misc_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_orth_null_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_relational_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_find_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_find_unique_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_chol_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cx_scalar_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_trimat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cumsum_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cumprod_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_symmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_hist_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_unique_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_toeplitz_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_fft_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_any_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_all_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_normalise_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_clamp_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_expmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_nonzeros_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_diff_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_norm_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_vecnorm_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_norm2est_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sqrtmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_logmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_range_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_chi2rnd_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_wishrnd_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_roots_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_cond_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_rcond_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_powmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_rank_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_row_as_mat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_col_as_mat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_plus_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_minus_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_sum_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_max_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_min_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_mean_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_var_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_stddev_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_vecnorm_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_diagvec_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_nonzeros_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/op_sp_as_dense_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_times_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_times_misc_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_mixed_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_cov_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_cor_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_kron_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_cross_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_join_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_relational_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_solve_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_conv_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_toeplitz_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_hist_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_histc_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_max_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_min_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_trapz_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_atan2_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_hypot_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_polyfit_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_polyval_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_intersect_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_affmul_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_mvnrnd_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_quantile_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/glue_powext_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/gmm_misc_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/gmm_diag_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/gmm_full_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_strans_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_htrans_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_misc_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_diagmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_trimat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_symmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_normalise_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_reverse_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_repmat_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_vectorise_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_norm_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_shift_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spop_relational_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_plus_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_minus_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_schur_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_times_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_join_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_kron_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_min_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_max_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_merge_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spglue_relational_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/spsolve_factoriser_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_cx_attrib.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_SortEigenvalue.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_DenseGenMatProd_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_SparseGenMatProd_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_SparseGenRealShiftSolve_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_DoubleShiftQR_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_GenEigsSolver_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_SymEigsSolver_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_SymEigsShiftSolver_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_TridiagEigen_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_UpperHessenbergEigen_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/newarp_UpperHessenbergQR_meat.hpp \
+ /home/nerijus/web/libs/armadillo-14.4.0/tmp/include/armadillo_bits/compiler_setup_post.hpp
