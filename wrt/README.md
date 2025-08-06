@@ -12,7 +12,7 @@ cd /tmp/openwrt/source
 </pre>
 
 2. Get the newest version of the software:
-<pre>git clone https://github.com/dizainioras/wcc.git</pre>
+<pre>git clone https://github.com/ktu-wcc/wcc.git</pre>
 
 Place packet description makefile (./wcc-pkg/Makefile) into folder /tmp/openwrt/mypackages/wcc
 
